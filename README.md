@@ -7,6 +7,10 @@ Users can perform operations like viewing the XML structure, or adding, modifyin
   
 Console XML Editor is ideal for users who need a quick and seamless way to interact with XML files without the need of a large graphical editor.
 
+Created by [Skittysh](https://github.com/skittysh) with Python.
+ 
+ Currently supports Linux and Windows operating systems. 
+
 ## Key Features
 
 - XML Viewing: Easily display the structure of your XML file. 
